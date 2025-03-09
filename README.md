@@ -87,17 +87,3 @@ Spring Boot for the framework.
 H2 Database for the in-memory database.
 Run
 Copy code
-
-### Notes
-
-- Replace `yourusername` in the clone URL with your actual GitHub username.
-- You can add more sections as needed, such as "Contributing," "Screenshots," or "Future Enhancements."
-- Make sure to include a `LICENSE` file in your repository if you mention licensing in the README.
-
-Feel free to modify any part of this README to better fit your project!
-
-
-
-Bookmark message
-Copy message
-
